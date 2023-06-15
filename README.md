@@ -95,7 +95,7 @@
     <li><a href="https://mediapipe.dev/">Mediapipe</a> - A Google library for computer vision and machine learning applications.</li>
     <li><a href="http://www.wekinator.org/">Wekinator</a> - An open-source software for interactive machine learning.</li>
     <li><a href="https://processing.org/">Processing</a> - A flexible software sketchbook and a language for learning how to code within the context of visual arts.</li>
-    <li><a href="https://www.kaggle.com/datasets/ardamavi/sign-language-digits-dataset">Sign Language Digits Dataset</a> The sign langauge dataset used. </li>
+    <li><a href="https://www.kaggle.com/datasets/ardamavi/sign-language-digits-dataset">Arda Mavi</a> Provider of the the Sign Language Digits Dataset used for this project. </li>
   </ul>
   <p>
     Thank you to the developers and contributors of these tools for their invaluable work.
