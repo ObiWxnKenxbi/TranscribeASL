@@ -80,22 +80,30 @@
   </ul>
   <p>
     Make sure to install the necessary dependencies before running the code.
-<h2>License</h2>
-<p>
-  This project is licensed under the <a href="https://www.gnu.org/licenses/agpl-3.0.html">Affero General Public License (AGPL)</a>. The AGPL is a copyleft license that requires any modified or extended versions of the software to be distributed under the same license terms.
-</p>
-<p>
-  Feel free to use, modify, and distribute the code according to the terms of the AGPL.
-</p>
+  </p>
+  <h2>YouTube Demo</h2>
+  <p>
+    Check out the YouTube demo of the Transcribe ASL project: <a href="https://youtu.be/MfwZXKzyL4k">https://youtu.be/MfwZXKzyL4k</a>
+  </p>
+  <h2>License</h2>
+  <p>
+    This project is licensed under the <a href="https://www.gnu.org/licenses/agpl-3.0.html">Affero General Public License (AGPL)</a>. The AGPL is a copyleft license that requires any modified or extended versions of the software to be distributed under the same license terms.
+  </p>
+  <p>
+    Feel free to use, modify, and distribute the code according to the terms of the AGPL.
+  </p>
   <h2>Acknowledgments</h2>
   <p>
-    This project was made possible by the following libraries and resources:
+    This project was done as part of the Sound communication class for the Sound and Music Computing master's degree at Universitat Pompeu Fabra.
+  </p>
+  <p>
+    It was made possible by the following libraries and resources:
   </p>
   <ul>
     <li><a href="https://mediapipe.dev/">Mediapipe</a> - A Google library for computer vision and machine learning applications.</li>
     <li><a href="http://www.wekinator.org/">Wekinator</a> - An open-source software for interactive machine learning.</li>
     <li><a href="https://processing.org/">Processing</a> - A flexible software sketchbook and a language for learning how to code within the context of visual arts.</li>
-    <li><a href="https://www.kaggle.com/datasets/ardamavi/sign-language-digits-dataset">Arda Mavi</a> - Provider of the Sign Language Digits Dataset used for this project. </li>
+    <li><a href="https://www.kaggle.com/datasets/ardamavi/sign-language-digits-dataset">Arda Mavi</a> - Provider of the Sign Language Digits Dataset used for this project.</li>
   </ul>
   <p>
     Thank you to the developers and contributors of these tools for their invaluable work.
